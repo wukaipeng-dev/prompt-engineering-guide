@@ -39,4 +39,4 @@ Pika 和 Runway 确实用 AI 把视频生成拔高了一个维度，虽然视频
 
 或许在 AI 时代，我们的脚程远远比不上 AI 的这俩汽车，但是，我们不是跟它比速度，而是**拿着钥匙，学会驾驶它**。
 
-> 推荐一个集聊天、工作流和知识库的AI 平台 [StarFlow.tech 🚀](http://starflow.tech) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
+> 推荐一个集聊天、工作流和知识库的AI 平台 [StarFlow 🚀](https://chat.starflow.site/) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。

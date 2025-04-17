@@ -10,7 +10,7 @@ tags: ["Starflow AI"]
 
 虽然 ChatGPT 已经 🔥 了快一年，但是目前看还有很多人使用受阻，StarFlow 以提高生产力和降低使用门槛为目标，**提供优质、易于访问、高性价比的 AI 服务**，当然，StarFlow 也同步跟进了最新的 GPT 产品更新。
 
-👉 体验 StarFlow 的全新服务，请访问：https://www.starflow.tech/chat
+👉 体验 StarFlow 的全新服务，请访问：https://chat.starflow.site/
 
 
 ![1702525607000](images/52ec73dbc4aa649e17bef55f67ade8d32791d7c7a2b218f4458485510bfe86fd.png)  

@@ -30,7 +30,7 @@ ChatGPT 面世一年多了，如何让大模型输出高质量内容，让提示
 ✨ 作用：和第 5 句一样，能够激激励 ChatGPT。
 
 
-> 推荐一个集聊天、工作流和知识库的AI 平台 [StarFlow.tech 🚀](http://starflow.tech) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
+> 推荐一个集聊天、工作流和知识库的AI 平台 [StarFlow 🚀](https://chat.starflow.site/) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
 
 ---
 REFERENCE

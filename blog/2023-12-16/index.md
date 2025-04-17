@@ -81,7 +81,7 @@ AI 智能体，还有最让人激动的能力，那就把现在一些昂贵的**
 
 创建一个 app 或者服务，你不需要知道如何如变成或者图形设计，你只需要告诉你的智能体你想要做什么，**它就能够编码、设计界面、创建 logo，然后发布到 app 到在线商店上**，OpenAI 的 GPTs 能让我们一窥未来，GPTs 可以让非开发人员创建并分享自己的的智能体。
 
-推荐下 [starflow.tech](https://www.starflow.tech)，可以直接体验 GPTs
+推荐下 [StarFlow](https://chat.starflow.site/)，可以直接体验 GPTs
 
 
 ![1702741138368](images/4ef2c673c9e700d86688a3368d2bb17b5d80ad21eb3fdef735147b1261fe4112.png)  

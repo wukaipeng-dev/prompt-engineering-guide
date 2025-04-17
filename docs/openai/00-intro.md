@@ -9,17 +9,17 @@ position: 2
 
 但如果你觉得更强的大模型还不够，想要进一步得到更好的输出质量， 那 OpenAI 的六大策略就值得一学。接下来讲解一下这六大策略，他们分别是：·
 
-1️⃣ [清晰的指令](https://doc.starflow.tech/docs/openai/01)
+1️⃣ [清晰的指令](/docs/openai/01)
 
-2️⃣ [引用内容](https://doc.starflow.tech/docs/openai/02)
+2️⃣ [引用内容](/docs/openai/02)
 
-3️⃣ [将复杂任务拆分成简单任务](https://doc.starflow.tech/docs/openai/03)
+3️⃣ [将复杂任务拆分成简单任务](/docs/openai/03)
 
-4️⃣ [给模型多点时间去思考](https://doc.starflow.tech/docs/openai/04)
+4️⃣ [给模型多点时间去思考](/docs/openai/04)
 
-5️⃣ [使用第三方的工具](https://doc.starflow.tech/docs/openai/05)
+5️⃣ [使用第三方的工具](/docs/openai/05)
 
-6️⃣ [系统性测试变化](https://doc.starflow.tech/docs/openai/06)
+6️⃣ [系统性测试变化](/docs/openai/06)
 
 
 ## 一、清晰的指令

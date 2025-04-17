@@ -86,7 +86,7 @@ ChatGPT 的面世， 不亚于一场工业革命，为整个社会带来了方�
 罗马不是一日建成的，但也不是一天内倒塌的。
 
 
-> 推荐一个集聊天、工作流和知识库的AI 平台 [StarFlow.tech 🚀](http://starflow.tech) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
+> 推荐一个集聊天、工作流和知识库的AI 平台 [StarFlow 🚀](https://chat.starflow.site/) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
 
 
 Reference

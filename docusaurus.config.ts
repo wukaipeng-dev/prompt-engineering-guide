@@ -10,14 +10,14 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://doc.starflow.tech',
+  url: 'https://prompt-engineering-chinese-guide.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'starflowai', // Usually your GitHub org/user name.
+  organizationName: 'wukaipeng-dev', // Usually your GitHub org/user name.
   projectName: 'prompt-engineering-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -81,12 +81,12 @@ const config: Config = {
         },
         { to: '/blog', label: '博客', position: 'left' },
         {
-          href: 'https://starflow.tech',
-          label: 'Starflow',
+          href: 'https://chat.starflow.site/',
+          label: 'StarFlow',
           position: 'right',
         },
         {
-          href: 'https://github.com/starflowai/prompt-engineering-guide',
+          href: 'https://github.com/wukaipeng-dev/prompt-engineering-guide',
           label: 'GitHub',
           position: 'right',
         },
@@ -109,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'Starflow',
-              href: 'https://starflow.tech',
+              href: 'https://chat.starflow.site/',
             },
           ],
         },

@@ -42,4 +42,4 @@ tags: ["OpenAI","ChatGPT"]
 
 
 
-> 如果你也对这个越来越有人性的 GPT-4 产生了好奇，或者想要体验一次与人工智能交流的乐趣，我有一个好消息要告诉你。我推荐你一个集聊天、工作流和知识库的AI 平台 [StarFlow.tech 🚀](http://starflow.tech) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
+> 如果你也对这个越来越有人性的 GPT-4 产生了好奇，或者想要体验一次与人工智能交流的乐趣，我有一个好消息要告诉你。我推荐你一个集聊天、工作流和知识库的AI 平台 [StarFlow.tech 🚀](https://chat.starflow.site/) 。在这里，你可以免费使用 ChatGPT3.5 和 3.5 16K，还有 GPT-4 Vision、DELL·E3、Midjourney 等多种模型可供选择。这个平台就像一个小型工作室，助力个人效率 Max！。
