@@ -127,7 +127,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Prompt Engineering Guide. Built with Starflow AI.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Prompt Engineering Guide. Built with Wu Kaipeng.`,
     },
     prism: {
       theme: prismThemes.github,
